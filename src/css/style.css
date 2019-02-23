@@ -5,6 +5,15 @@
     margin-top: 2rem;
 }
 
+.title {
+    font-size: 33px;
+    text-align: center;
+    font-weight: bold;
+    color: saddlebrown;
+    font-family: Lato, sans-serif;
+    margin-bottom: 20px;
+}
+
 #level {
     font-family: Lato, sans-serif;
     font-size: 2rem;
